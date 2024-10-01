@@ -39,7 +39,7 @@ Luego editar el archivo .env con las credenciales de la base de datos
 
 Deberá ser un archivo pdf con el texto que se desea analizar en el proyecto
 
-## 78. Correr el servidor
+## 8. Correr el servidor
 ```bash
 python main.py
 ```
