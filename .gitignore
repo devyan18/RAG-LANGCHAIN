@@ -2,7 +2,7 @@
 venv
 __pycache__
 
-docs
+docs/*
 
 chroma
 indexed_files.txt

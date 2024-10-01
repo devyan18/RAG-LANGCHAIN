@@ -1,9 +1,7 @@
 template = """
-Responde a la siguiente pregunta basándote **únicamente** en el contexto proporcionado. No incluyas información que no esté en el contexto ni inventes datos.
+Responde a la siguiente pregunta o completa la siguiente frase basándote en el contexto proporcionado.
 
-Si el contexto no contiene la información necesaria para responder la pregunta, indica **solo** que no tienes esa información, sin agregar detalles adicionales.
-
-**Pregunta:** {question}
+**Pregunta o Frase:** {question}
 
 **Contexto:** {context}
 
